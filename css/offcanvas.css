@@ -138,7 +138,7 @@ width: 20px;
 }
 
   .header-map #map {
-    height: 250px;
+    height: 220px;
     overflow: hidden;
     text-align: center;
     position: relative;
@@ -241,6 +241,7 @@ margin-right: 10px;
     -webkit-flex-wrap: wrap; /* Safari 6.1+ */
     flex-wrap: wrap;
       font-size: 1.1rem;
+      line-height: 1.8;
 }
 .list-schedule .schedule-item .train-details .time {
   /*font-size: 150%;*/
