@@ -164,6 +164,10 @@ right: 0;
 left: 0;
 color: #fff;
 text-shadow: 0 0 10px #000;
+
+      max-width: 768px;
+margin-left: auto;
+margin-right: auto;
 }
 .header-map .header-details h2 {
   font-size: 2rem;
@@ -181,9 +185,16 @@ text-shadow: 0 0 10px #000;
 }
 
 .list-schedule {
-  background: #f5f5f5;
+  /*background: #f5f5f5;*/
   padding: 20px 10px 0;
 overflow: auto;
+
+  /*background: #f5f5f5;*/
+  /*padding: 20px 20px 0;*/
+/*overflow: auto;*/
+      max-width: 768px;
+margin-left: auto;
+margin-right: auto;
 }
 .list-schedule .schedule-item {
 display: block;
